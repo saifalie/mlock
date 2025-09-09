@@ -83,13 +83,6 @@ GOOGLE_MAPS_API_KEY=your_google_maps_key
 flutter run
 ```
 
-## API Endpoints
-
-- `POST /api/auth/login` - User login
-- `POST /api/auth/register` - User registration
-- `GET /api/lockers/stations` - Get locker stations
-- `POST /api/lockers/book` - Book a locker
-- `POST /api/payments/create-order` - Create payment order
 
 ## Project Structure
 
